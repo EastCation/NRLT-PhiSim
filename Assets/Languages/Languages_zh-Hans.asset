@@ -19,15 +19,15 @@ MonoBehaviour:
     m_Items: []
   m_TableData:
   - m_Id: 3255995195392
-    m_Localized: "本模拟器没有使用lchzh3473的Phigros模拟器\n不会特效の点缀星空是我爹\nPhiDot项目是我爷"
+    m_Localized: "\u672c\u6a21\u62df\u5668\u6ca1\u6709\u4f7f\u7528lchzh3473\u7684Phigros\u6a21\u62df\u5668\n\u4e0d\u4f1a\u7279\u6548\u306e\u70b9\u7f00\u661f\u7a7a\u662f\u6211\u7239\nPhiDot\u9879\u76ee\u662f\u6211\u7237"
     m_Metadata:
       m_Items: []
   - m_Id: 17412089962496
-    m_Localized: "载入谱面文件"
+    m_Localized: "\u8f7d\u5165\u8c31\u9762\u6587\u4ef6"
     m_Metadata:
       m_Items: []
   - m_Id: 17851766267904
-    m_Localized: "开始游戏"
+    m_Localized: "\u5f00\u59cb\u6e38\u620f"
     m_Metadata:
       m_Items: []
   - m_Id: 260103931420672
@@ -35,11 +35,11 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 715402639302656
-    m_Localized: "请前往设置应用向本程序添加访问所有文件的权限，如您已经添加权限，请忽略此消息"
+    m_Localized: "\u8bf7\u524d\u5f80\u8bbe\u7f6e\u5e94\u7528\u5411\u672c\u7a0b\u5e8f\u6dfb\u52a0\u8bbf\u95ee\u6240\u6709\u6587\u4ef6\u7684\u6743\u9650\uff0c\u5982\u60a8\u5df2\u7ecf\u6dfb\u52a0\u6743\u9650\uff0c\u8bf7\u5ffd\u7565\u6b64\u6d88\u606f"
     m_Metadata:
       m_Items: []
   - m_Id: 27646728193695744
-    m_Localized: "我已知晓"
+    m_Localized: "\u6211\u5df2\u77e5\u6653"
     m_Metadata:
       m_Items: []
   references:

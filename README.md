@@ -39,3 +39,5 @@ nrlt@nuanr-mxi.com
 
 ---
 __「Writ deep into NuanR_▇▇ is a name you do not know」__
+
+*__ Chinese Translation By MoeRain/萌雨社 __*
